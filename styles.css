@@ -792,6 +792,10 @@ POLICY SECTION
     padding: 60px 0;
   }
 
+  .desktop-nav {
+     display: none;
+  }
+
   h1 {
     font-size: 2rem;
   }
