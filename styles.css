@@ -50,8 +50,10 @@ h1, h2, h3, h4 {
   color: #ffffff;
 }
 
-h1 span {
-   color: #1fb6ff;
+.gradient-text{
+    background: linear-gradient(90deg, #1da1f2, #4fc3f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 p {
