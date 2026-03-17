@@ -50,6 +50,10 @@ h1, h2, h3, h4 {
   color: #ffffff;
 }
 
+h1 span {
+   color: #1fb6ff;
+}
+
 p {
   color: #8b8f97;
   max-width: 700px;
